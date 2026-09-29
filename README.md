@@ -1,2 +1,3 @@
-# Week-5-Model-Evaluation-Agriculture
-Agricultural machine learning project covering model evaluation, cross-validation, error analysis, performance metrics, and interpretation for crop yield and disease prediction.
+# Source Code
+
+The Week 5 demonstration is implemented directly in the Jupyter notebook. This folder can be used for reusable Python modules in future iterations.

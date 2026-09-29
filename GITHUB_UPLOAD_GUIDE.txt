@@ -1,0 +1,16 @@
+GITHUB UPLOAD GUIDE
+
+1. Create a new GitHub repository named:
+   Week-5-Model-Evaluation-Agriculture
+
+2. Set it to Public if your internship portal needs to access it.
+
+3. Upload all files and folders from this project.
+
+4. Suggested repository description:
+   "Week 5 agricultural machine learning project covering model evaluation, cross-validation, error analysis and interpretation."
+
+5. After uploading, your GitHub URL will be:
+   https://github.com/YOUR-USERNAME/Week-5-Model-Evaluation-Agriculture
+
+6. Replace YOUR-USERNAME with your actual GitHub username before submitting the URL.
